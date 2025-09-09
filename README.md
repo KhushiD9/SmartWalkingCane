@@ -64,13 +64,17 @@ The Smart Walking Cane is an embedded system designed to assist visually challen
 
 ## **🛠️ Circuit Diagram**
 
-![Circuit Diagram](./Images/ckt_dia.png)
+<p align="center">
+  <img src="./Images/ckt_dia.png" alt="Circuit Diagram">
+</p>
 
 ---
 
-## ** Prototype Image**
+## **Prototype Image**
 
-![Prototype](./Images/model.jpg)
+<p align="center">
+  <img src="./Images/model.jpg" alt="Prototype">
+</p>
 
 ---
 
