@@ -1,7 +1,5 @@
 # **Smart Walking Cane for the Visually Challenged**
 
-![Circuit Diagram](c252b1ee-be61-43d3-9e6e-912abb4a5518.png)
-
 ## **Project Overview**
 
 The Smart Walking Cane is an embedded system designed to assist visually challenged individuals in navigating their surroundings more safely and independently. This innovative solution integrates multiple sensors and technologies into a sturdy, user-friendly walking stick to detect obstacles, alert the user, and ensure safety under varying conditions.
@@ -66,7 +64,13 @@ The Smart Walking Cane is an embedded system designed to assist visually challen
 
 ## **🛠️ Circuit Diagram**
 
-![Circuit Diagram](./c252b1ee-be61-43d3-9e6e-912abb4a5518.png)
+![Circuit Diagram]((./Images/ckt_dia.png))
+
+---
+
+## ** Prototype Image**
+
+![Prototype]((./Images/model.jpg))
 
 ---
 
